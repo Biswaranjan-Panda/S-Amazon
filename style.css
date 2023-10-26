@@ -174,7 +174,7 @@
 
 .hero-section {
     display: flex;
-    background-image: url("/Images/hero_image.jpg");
+    background-image: url("hero_image.jpg");
     background-size: cover;
     height: 300px;
     align-items: flex-end;
