@@ -299,7 +299,7 @@ footer {
 }
 
 .footer-panel-3-logo{
-  background-image: url(./amazon_logo.png);
+  background-image: url("./amazon_logo.png");
   height: 50px;
   width: 100px;
   background-size: cover;
